@@ -1,7 +1,7 @@
 ### Hello there! I'm R2leyser 
 [![trophy](https://github-profile-trophy.vercel.app/?username=r2leyser&rank=-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
 
-I do recreational programming, not really worried about much I just wanna have fun for the time being 
+I'm a computer science student, not really worried about much I just wanna have fun for the time being 
 
 If you wanna see what I'm up to you can see [my website](https://r2leyser.github.io), I post tech related things on my blog every once in a blue moon 
 <!--
