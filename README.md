@@ -1,9 +1,9 @@
 ### Hello there! I'm R2leyser 
 [![trophy](https://github-profile-trophy.vercel.app/?username=r2leyser&rank=-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
 
-I'm a computer science student, not really worried about much I just wanna have fun for the time being 
+I'm a Computer Science student, not really worried about much I just wanna have fun for the time being 
 
-If you wanna see what I'm up to you can see [my website](https://www.r2leyser.tech), I post tech related things on my blog every once in a blue moon 
+If you wanna see what I'm up to you can see [my website](https://blog.r2leyser.tech), I post tech related things on my blog every once in a blue moon 
 <!--
 **R2leyser/R2leyser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
